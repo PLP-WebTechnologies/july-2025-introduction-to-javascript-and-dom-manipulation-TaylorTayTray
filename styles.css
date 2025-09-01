@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f0f4f8;
+}
+
+h1 {
+    color: #1d4ed8;
+    }
+
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+#part1-output {
+    margin: 20px 0;
+    font-weight: bold;
+    color: #065f46;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
